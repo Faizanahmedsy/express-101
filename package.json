@@ -1,0 +1,13 @@
+{
+  "name": "express-01",
+  "version": "1.0.0",
+  "description": "foo",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "faizanahmed",
+  "license": "MIT"
+}
